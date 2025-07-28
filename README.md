@@ -1,6 +1,6 @@
 # 📚 BookManager
 
-BookManager este o aplicație simplă de tip consolă (CLI) scrisă în Java, creată pentru gestionarea unei colecții de cărți. Acest proiect a fost realizat ca exercițiu practic în pregătirea pentru internshipul Java la **Grid Dynamics**.
+BookManager este o aplicație simplă de tip consolă (CLI) scrisă în Java, creată pentru gestionarea unei colecții de cărți. Acest proiect a fost realizat ca exercițiu practic în pregătirea pentru internshipul Java.
 
 ---
 
